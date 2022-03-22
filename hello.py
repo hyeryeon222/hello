@@ -2,4 +2,4 @@
 #202102021
 #한국외대
 print("hello,hi")
-print("안녕")
+print("bye!!!")
